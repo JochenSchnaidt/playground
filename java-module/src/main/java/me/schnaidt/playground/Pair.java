@@ -1,4 +1,4 @@
-package me.schnaidt.playground.java;
+package me.schnaidt.playground;
 
 /**
  * A tuple of things.
